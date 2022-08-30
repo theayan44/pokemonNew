@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pokemonNew/static/css/main.073c9b0a.css",
+    "main.js": "/pokemonNew/static/js/main.7250f181.js",
+    "static/js/787.7e0b23c5.chunk.js": "/pokemonNew/static/js/787.7e0b23c5.chunk.js",
+    "static/media/logo.svg": "/pokemonNew/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pokemonNew/index.html",
+    "main.073c9b0a.css.map": "/pokemonNew/static/css/main.073c9b0a.css.map",
+    "main.7250f181.js.map": "/pokemonNew/static/js/main.7250f181.js.map",
+    "787.7e0b23c5.chunk.js.map": "/pokemonNew/static/js/787.7e0b23c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7250f181.js"
+  ]
+}
